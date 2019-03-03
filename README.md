@@ -1,4 +1,5 @@
-Sommaire
+### Sommaire
+
 1. [Les manipulations Git](#git)
 2. [Devise](#devise)
 3. [Mailer](#mailer)
