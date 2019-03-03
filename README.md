@@ -153,9 +153,9 @@ https://www.youtube.com/watch?v=JbnrWYYnJ7c
 ## Les tests de Model <a name="model"></a> :
 
 **Lien du cours (avec les gems factory_bot, shoulda_matchers et faker)**
+https://www.thehackingproject.org/dashboard/lessons/239?locale=fr
 
 ## Les tests de Controller <a name="controller"></a> :
-https://www.thehackingproject.org/dashboard/lessons/239?locale=fr
 
 **Lien du cours**
 https://www.thehackingproject.org/dashboard/lessons/244?locale=fr
